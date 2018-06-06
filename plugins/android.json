@@ -8,37 +8,37 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.arredamenticrippa.ArredamentiCrippa"
+            "PACKAGE_NAME": "com.designbest.arredamentimaurizi"
         }
     }
 }
